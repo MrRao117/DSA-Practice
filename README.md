@@ -10,6 +10,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MrRao117/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1095-find-in-mountain-array](https://github.com/MrRao117/DSA-Practice/tree/master/1095-find-in-mountain-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MrRao117/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MrRao117/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -52,12 +53,14 @@
 ## Math
 |  |
 | ------- |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
