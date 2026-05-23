@@ -21,6 +21,7 @@
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/MrRao117/DSA-Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MrRao117/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -28,6 +29,7 @@
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/MrRao117/DSA-Practice/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MrRao117/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Binary Search
 |  |
 | ------- |
