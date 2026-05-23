@@ -19,6 +19,7 @@
 | [1672-richest-customer-wealth](https://github.com/MrRao117/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/MrRao117/DSA-Practice/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
@@ -51,6 +52,7 @@
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 ## String
 |  |
 | ------- |
