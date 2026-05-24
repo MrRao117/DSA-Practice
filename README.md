@@ -7,6 +7,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0059-spiral-matrix-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/MrRao117/DSA-Practice/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
+| [0059-spiral-matrix-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -81,6 +83,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
