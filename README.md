@@ -27,6 +27,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MrRao117/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MrRao117/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/MrRao117/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
@@ -125,4 +126,20 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
