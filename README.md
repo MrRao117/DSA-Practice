@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MrRao117/DSA-Practice/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
