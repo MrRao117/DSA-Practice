@@ -18,6 +18,7 @@
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrRao117/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MrRao117/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -63,6 +64,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/MrRao117/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/MrRao117/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
@@ -126,6 +128,7 @@
 | [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
@@ -143,6 +146,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
@@ -176,4 +180,5 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
