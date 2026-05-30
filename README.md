@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/MrRao117/DSA-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MrRao117/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -72,6 +73,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/MrRao117/DSA-Practice/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/MrRao117/DSA-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MrRao117/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
