@@ -84,6 +84,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/MrRao117/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Interactive
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0055-jump-game](https://github.com/MrRao117/DSA-Practice/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -126,6 +128,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Simulation
 |  |
 | ------- |
