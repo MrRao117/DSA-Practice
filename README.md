@@ -14,6 +14,7 @@
 | [0066-plus-one](https://github.com/MrRao117/DSA-Practice/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrRao117/DSA-Practice/tree/master/0238-product-of-array-except-self) |
@@ -72,6 +73,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MrRao117/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/MrRao117/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
