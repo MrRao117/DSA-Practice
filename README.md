@@ -17,6 +17,7 @@
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/MrRao117/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -167,6 +169,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 ## String
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 ## Queue
 |  |
 | ------- |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
