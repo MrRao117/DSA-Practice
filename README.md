@@ -26,6 +26,7 @@
 | [0414-third-maximum-number](https://github.com/MrRao117/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/MrRao117/DSA-Practice/tree/master/0704-binary-search) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/MrRao117/DSA-Practice/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -185,6 +187,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
@@ -226,6 +229,7 @@
 | [0414-third-maximum-number](https://github.com/MrRao117/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
