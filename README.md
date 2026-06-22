@@ -198,6 +198,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/MrRao117/DSA-Practice/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
@@ -216,6 +217,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
