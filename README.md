@@ -200,6 +200,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0709-to-lower-case](https://github.com/MrRao117/DSA-Practice/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrRao117/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1528-shuffle-string](https://github.com/MrRao117/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -222,6 +223,7 @@
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/MrRao117/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
