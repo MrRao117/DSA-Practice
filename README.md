@@ -151,6 +151,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MrRao117/DSA-Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
@@ -178,6 +179,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
@@ -200,6 +202,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MrRao117/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MrRao117/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
