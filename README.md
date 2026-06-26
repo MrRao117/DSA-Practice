@@ -65,6 +65,7 @@
 | [1672-richest-customer-wealth](https://github.com/MrRao117/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/MrRao117/DSA-Practice/tree/master/1773-count-items-matching-a-rule) |
+| [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MrRao117/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -223,6 +224,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/MrRao117/DSA-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/MrRao117/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [1773-count-items-matching-a-rule](https://github.com/MrRao117/DSA-Practice/tree/master/1773-count-items-matching-a-rule) |
+| [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -246,6 +248,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/MrRao117/DSA-Practice/tree/master/1768-merge-strings-alternately) |
+| [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
