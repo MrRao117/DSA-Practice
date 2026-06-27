@@ -211,6 +211,7 @@
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/MrRao117/DSA-Practice/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
@@ -317,6 +318,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
