@@ -158,6 +158,7 @@
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/MrRao117/DSA-Practice/tree/master/0754-reach-a-number) |
 | [0976-largest-perimeter-triangle](https://github.com/MrRao117/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -210,6 +211,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
+| [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/MrRao117/DSA-Practice/tree/master/0709-to-lower-case) |
@@ -240,6 +242,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/MrRao117/DSA-Practice/tree/master/0905-sort-array-by-parity) |
