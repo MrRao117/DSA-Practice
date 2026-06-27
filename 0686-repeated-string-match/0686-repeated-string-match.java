@@ -1,15 +1,22 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
-        int count=0;
-        if(b.isEmpty()) return 0;
         StringBuilder temp = new StringBuilder();
-        while(temp.length()<=Math.pow(10,4)){
+        int count=0;
+        while(temp.length()<b.length()){
             temp.append(a);
             count++;
-            if(temp.indexOf(b)!=-1){
-                return count;
-            }
         }
+
+        if(temp.indexOf(b)!=-1){
+            return count;
+        }
+
+        temp.append(a);
+        count++;
+        if(temp.indexOf(b)!=-1){
+            return count;
+        }
+
         return -1;
     }
 }
