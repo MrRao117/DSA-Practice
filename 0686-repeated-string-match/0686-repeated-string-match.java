@@ -2,11 +2,11 @@ class Solution {
     public int repeatedStringMatch(String a, String b) {
         int count=0;
         if(b.isEmpty()) return 0;
-        String temp = "";
+        StringBuilder temp = new StringBuilder();
         while(temp.length()<=Math.pow(10,4)){
-            temp = temp+a;
+            temp.append(a);
             count++;
-            if(temp.contains(b)){
+            if(temp.indexOf(b)!=-1){
                 return count;
             }
         }
