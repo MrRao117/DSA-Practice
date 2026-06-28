@@ -70,6 +70,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MrRao117/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/MrRao117/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -116,6 +117,7 @@
 | [1539-kth-missing-positive-number](https://github.com/MrRao117/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/MrRao117/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Interactive
 |  |
@@ -232,6 +234,7 @@
 | [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
+| [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
@@ -255,6 +258,7 @@
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1768-merge-strings-alternately](https://github.com/MrRao117/DSA-Practice/tree/master/1768-merge-strings-alternately) |
 | [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
+| [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
