@@ -67,6 +67,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/MrRao117/DSA-Practice/tree/master/1773-count-items-matching-a-rule) |
 | [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/MrRao117/DSA-Practice/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/MrRao117/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -140,6 +141,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/MrRao117/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Prefix Sum
 |  |
@@ -306,6 +308,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Ordered Set
