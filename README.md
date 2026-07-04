@@ -219,6 +219,7 @@
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/MrRao117/DSA-Practice/tree/master/0709-to-lower-case) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/MrRao117/DSA-Practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrRao117/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
@@ -249,6 +250,7 @@
 | [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/MrRao117/DSA-Practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/MrRao117/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
