@@ -157,6 +157,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/MrRao117/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/MrRao117/DSA-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/MrRao117/DSA-Practice/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
@@ -179,6 +180,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MrRao117/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
@@ -214,6 +216,7 @@
 | [0014-longest-common-prefix](https://github.com/MrRao117/DSA-Practice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MrRao117/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/MrRao117/DSA-Practice/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
