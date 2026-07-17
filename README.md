@@ -75,6 +75,7 @@
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
 |  |
@@ -120,6 +121,7 @@
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/MrRao117/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Interactive
 |  |
 | ------- |
@@ -154,6 +156,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -178,6 +181,7 @@
 | [1513-number-of-substrings-with-only-1s](https://github.com/MrRao117/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MrRao117/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -206,6 +210,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
 | ------- |
@@ -213,6 +218,7 @@
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MrRao117/DSA-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
 | ------- |
@@ -303,6 +309,7 @@
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/MrRao117/DSA-Practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MrRao117/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -356,4 +363,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/MrRao117/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
