@@ -115,6 +115,7 @@
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrRao117/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/MrRao117/DSA-Practice/tree/master/1095-find-in-mountain-array) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/MrRao117/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MrRao117/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
@@ -243,6 +245,7 @@
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrRao117/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/MrRao117/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/MrRao117/DSA-Practice/tree/master/1528-shuffle-string) |
@@ -304,6 +307,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Heap (Priority Queue)
 |  |
