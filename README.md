@@ -49,6 +49,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/MrRao117/DSA-Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -86,6 +87,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/MrRao117/DSA-Practice/tree/master/1672-richest-customer-wealth) |
@@ -199,6 +201,7 @@
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
