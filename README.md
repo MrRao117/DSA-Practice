@@ -54,6 +54,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -208,6 +209,7 @@
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -260,6 +262,7 @@
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrRao117/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
+| [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/MrRao117/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/MrRao117/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
