@@ -44,6 +44,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrRao117/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/MrRao117/DSA-Practice/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/MrRao117/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1122-relative-sort-array](https://github.com/MrRao117/DSA-Practice/tree/master/1122-relative-sort-array) |
@@ -254,6 +255,7 @@
 | [0777-swap-adjacent-in-lr-string](https://github.com/MrRao117/DSA-Practice/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0848-shifting-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
+| [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1108-defanging-an-ip-address](https://github.com/MrRao117/DSA-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
@@ -296,6 +298,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/MrRao117/DSA-Practice/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/MrRao117/DSA-Practice/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -381,11 +384,13 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
+| [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MrRao117/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 ## Stack
 |  |
 | ------- |
