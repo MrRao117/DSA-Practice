@@ -28,6 +28,7 @@
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -176,6 +177,7 @@
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/MrRao117/DSA-Practice/tree/master/0754-reach-a-number) |
@@ -243,6 +245,7 @@
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/MrRao117/DSA-Practice/tree/master/0686-repeated-string-match) |
@@ -345,6 +348,7 @@
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/MrRao117/DSA-Practice/tree/master/0905-sort-array-by-parity) |
