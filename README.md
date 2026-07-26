@@ -207,6 +207,7 @@
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -259,6 +260,7 @@
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/MrRao117/DSA-Practice/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/MrRao117/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1528-shuffle-string](https://github.com/MrRao117/DSA-Practice/tree/master/1528-shuffle-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1616-split-two-strings-to-make-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/1616-split-two-strings-to-make-palindrome) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MrRao117/DSA-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -404,4 +406,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MrRao117/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
+## Recursion
+|  |
+| ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
