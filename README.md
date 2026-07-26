@@ -246,6 +246,7 @@
 | [0020-valid-parentheses](https://github.com/MrRao117/DSA-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MrRao117/DSA-Practice/tree/master/0043-multiply-strings) |
+| [0065-valid-number](https://github.com/MrRao117/DSA-Practice/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
