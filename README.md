@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MrRao117/DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/MrRao117/DSA-Practice/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/MrRao117/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/MrRao117/DSA-Practice/tree/master/0041-first-missing-positive) |
@@ -288,6 +289,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MrRao117/DSA-Practice/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
@@ -350,6 +352,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MrRao117/DSA-Practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
