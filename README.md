@@ -161,6 +161,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -233,6 +234,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
@@ -241,6 +243,7 @@
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/MrRao117/DSA-Practice/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -288,6 +291,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/MrRao117/DSA-Practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MrRao117/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
@@ -383,6 +387,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MrRao117/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
