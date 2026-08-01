@@ -31,6 +31,7 @@
 | [0436-find-right-interval](https://github.com/MrRao117/DSA-Practice/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/MrRao117/DSA-Practice/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
@@ -146,6 +147,7 @@
 | [0055-jump-game](https://github.com/MrRao117/DSA-Practice/tree/master/0055-jump-game) |
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
@@ -184,6 +186,7 @@
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -438,5 +441,10 @@
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
