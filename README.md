@@ -43,6 +43,7 @@
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0848-shifting-letters) |
 | [0875-koko-eating-bananas](https://github.com/MrRao117/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/MrRao117/DSA-Practice/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -150,6 +151,7 @@
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
@@ -194,6 +196,7 @@
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0754-reach-a-number](https://github.com/MrRao117/DSA-Practice/tree/master/0754-reach-a-number) |
+| [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/MrRao117/DSA-Practice/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -453,4 +456,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
