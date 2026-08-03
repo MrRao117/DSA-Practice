@@ -25,6 +25,7 @@
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MrRao117/DSA-Practice/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/MrRao117/DSA-Practice/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -345,6 +346,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 ## Monotonic Queue
 |  |
@@ -380,6 +383,7 @@
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MrRao117/DSA-Practice/tree/master/0179-largest-number) |
+| [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MrRao117/DSA-Practice/tree/master/0414-third-maximum-number) |
@@ -457,4 +461,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
