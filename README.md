@@ -172,6 +172,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MrRao117/DSA-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -215,6 +216,7 @@
 | [1573-number-of-ways-to-split-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/MrRao117/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
+| [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -307,6 +309,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
+| [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -473,6 +476,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 ## Quickselect
 |  |
 | ------- |
