@@ -1,33 +1,25 @@
 class Solution {
     public int splitNum(int num) {
-        int temp=num;
-
-        int count=0;
+        int[] count = new int[10];
         while(num>0){
-            int r = num%10;
-            count++;
-            num=num/10;
+            count[num%10]++;
+            num/=10;
         }
 
-        num=temp;
-        int[] arr = new int[count];
-        int k=0;
-        while(num>0){
-            int r = num%10;
-            arr[k]=r;
-            k++;
-            num=num/10;
-        }
-
-        Arrays.sort(arr);
         int num1=0, num2=0;
-        for(int i=0; i<arr.length; i++){
-            if(i%2==0){
-                num1 = num1*10+arr[i];
-            }
+        boolean turn = true;
 
-            else{
-                num2 = num2*10+arr[i];
+        for (int i = 0; i < count.length; i++) {
+            while(count[i]>0){
+                if(turn){
+                    num1=num1*10+i;
+                }
+                else{
+                    num2=num2*10+i;
+                }
+
+                turn = !turn;
+                count[i]--;
             }
         }
 
