@@ -178,6 +178,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2578-split-with-minimum-sum](https://github.com/MrRao117/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
@@ -223,6 +224,7 @@
 | [1927-sum-game](https://github.com/MrRao117/DSA-Practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2578-split-with-minimum-sum](https://github.com/MrRao117/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/MrRao117/DSA-Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/MrRao117/DSA-Practice/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -424,6 +426,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2578-split-with-minimum-sum](https://github.com/MrRao117/DSA-Practice/tree/master/2578-split-with-minimum-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MrRao117/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/MrRao117/DSA-Practice/tree/master/3731-find-missing-elements) |
