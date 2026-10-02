@@ -509,4 +509,8 @@
 | [0047-permutations-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/MrRao117/DSA-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0090-subsets-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MrRao117/DSA-Practice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
