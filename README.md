@@ -525,4 +525,8 @@
 | [0196-delete-duplicate-emails](https://github.com/MrRao117/DSA-Practice/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/MrRao117/DSA-Practice/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/MrRao117/DSA-Practice/tree/master/0262-trips-and-users) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MrRao117/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
