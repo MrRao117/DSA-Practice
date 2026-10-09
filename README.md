@@ -533,6 +533,7 @@
 | [0511-game-play-analysis-i](https://github.com/MrRao117/DSA-Practice/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/MrRao117/DSA-Practice/tree/master/0550-game-play-analysis-iv) |
 | [0601-human-traffic-of-stadium](https://github.com/MrRao117/DSA-Practice/tree/master/0601-human-traffic-of-stadium) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/MrRao117/DSA-Practice/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 ## Linked List
 |  |
 | ------- |
