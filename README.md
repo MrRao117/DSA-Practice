@@ -348,6 +348,7 @@
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/MrRao117/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrRao117/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MrRao117/DSA-Practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
@@ -382,6 +383,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 ## Queue
@@ -420,6 +422,7 @@
 | [0047-permutations-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/MrRao117/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MrRao117/DSA-Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -549,6 +552,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrRao117/DSA-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MrRao117/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -556,4 +560,8 @@
 | [0141-linked-list-cycle](https://github.com/MrRao117/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MrRao117/DSA-Practice/tree/master/0202-happy-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
