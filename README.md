@@ -545,6 +545,7 @@
 | [0608-tree-node](https://github.com/MrRao117/DSA-Practice/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/MrRao117/DSA-Practice/tree/master/0610-triangle-judgement) |
 | [0626-exchange-seats](https://github.com/MrRao117/DSA-Practice/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/MrRao117/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
 ## Linked List
 |  |
 | ------- |
