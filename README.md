@@ -547,6 +547,7 @@
 | [0626-exchange-seats](https://github.com/MrRao117/DSA-Practice/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/MrRao117/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/MrRao117/DSA-Practice/tree/master/1045-customers-who-bought-all-products) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/MrRao117/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 ## Linked List
 |  |
 | ------- |
