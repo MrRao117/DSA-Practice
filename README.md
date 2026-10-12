@@ -548,6 +548,7 @@
 | [0607-sales-person](https://github.com/MrRao117/DSA-Practice/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/MrRao117/DSA-Practice/tree/master/0608-tree-node) |
 | [0610-triangle-judgement](https://github.com/MrRao117/DSA-Practice/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/MrRao117/DSA-Practice/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/MrRao117/DSA-Practice/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/MrRao117/DSA-Practice/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/MrRao117/DSA-Practice/tree/master/1045-customers-who-bought-all-products) |
