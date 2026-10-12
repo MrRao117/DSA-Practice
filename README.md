@@ -552,6 +552,7 @@
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/MrRao117/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/MrRao117/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/MrRao117/DSA-Practice/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/MrRao117/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/MrRao117/DSA-Practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/MrRao117/DSA-Practice/tree/master/1757-recyclable-and-low-fat-products) |
 ## Linked List
