@@ -554,6 +554,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/MrRao117/DSA-Practice/tree/master/1045-customers-who-bought-all-products) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/MrRao117/DSA-Practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/MrRao117/DSA-Practice/tree/master/1068-product-sales-analysis-i) |
+| [1075-project-employees-i](https://github.com/MrRao117/DSA-Practice/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/MrRao117/DSA-Practice/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/MrRao117/DSA-Practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/MrRao117/DSA-Practice/tree/master/1280-students-and-examinations) |
