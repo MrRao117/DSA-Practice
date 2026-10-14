@@ -74,6 +74,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrRao117/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MrRao117/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MrRao117/DSA-Practice/tree/master/1470-shuffle-the-array) |
@@ -273,6 +274,7 @@
 | [1122-relative-sort-array](https://github.com/MrRao117/DSA-Practice/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrRao117/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/MrRao117/DSA-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrRao117/DSA-Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -446,6 +448,7 @@
 | [1200-minimum-absolute-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MrRao117/DSA-Practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrRao117/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1818-minimum-absolute-sum-difference](https://github.com/MrRao117/DSA-Practice/tree/master/1818-minimum-absolute-sum-difference) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/MrRao117/DSA-Practice/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1859-sorting-the-sentence](https://github.com/MrRao117/DSA-Practice/tree/master/1859-sorting-the-sentence) |
@@ -464,6 +467,7 @@
 | ------- |
 | [1051-height-checker](https://github.com/MrRao117/DSA-Practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/MrRao117/DSA-Practice/tree/master/1122-relative-sort-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrRao117/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/MrRao117/DSA-Practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
