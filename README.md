@@ -69,6 +69,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/MrRao117/DSA-Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/MrRao117/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
 | [1331-rank-transform-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +226,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/MrRao117/DSA-Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/MrRao117/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
