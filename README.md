@@ -51,6 +51,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MrRao117/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
 | [0848-shifting-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0848-shifting-letters) |
+| [0867-transpose-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/MrRao117/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/MrRao117/DSA-Practice/tree/master/0888-fair-candy-swap) |
@@ -117,6 +118,7 @@
 | [0073-set-matrix-zeroes](https://github.com/MrRao117/DSA-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -253,6 +255,7 @@
 | [0059-spiral-matrix-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MrRao117/DSA-Practice/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
