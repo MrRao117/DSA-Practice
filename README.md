@@ -76,6 +76,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MrRao117/DSA-Practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MrRao117/DSA-Practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MrRao117/DSA-Practice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/MrRao117/DSA-Practice/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -251,6 +252,7 @@
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/MrRao117/DSA-Practice/tree/master/1260-shift-2d-grid) |
 | [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MrRao117/DSA-Practice/tree/master/1389-create-target-array-in-the-given-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1929-concatenation-of-array) |
