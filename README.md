@@ -94,6 +94,7 @@
 | [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [1901-find-a-peak-element-ii](https://github.com/MrRao117/DSA-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MrRao117/DSA-Practice/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -251,6 +252,7 @@
 | [1324-print-words-vertically](https://github.com/MrRao117/DSA-Practice/tree/master/1324-print-words-vertically) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/MrRao117/DSA-Practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
