@@ -1,29 +1,41 @@
 class Solution {
     public List<Integer> luckyNumbers(int[][] matrix) {
-        List<Integer> result=new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        int row=0, col=0;
+        while(row<matrix.length && col<matrix[0].length){
+            boolean rowMin = true, colMax = true;
 
-        for (int i = 0; i < matrix.length; i++) {
-            int rowMin=matrix[i][0];
-            int minCol=0;
-            for (int j = 0; j < matrix[0].length; j++) {
-                if(rowMin>matrix[i][j]){
-                    rowMin=matrix[i][j];
-                    minCol=j;
+            int num = matrix[row][col];
+
+            // check min in row
+            for(int i=0; i<matrix[0].length; i++){
+                if(matrix[row][i]<num){
+                    rowMin = false;
+                    break;
                 }
             }
 
-            int colMax=matrix[0][minCol];
-            for (int j = 0; j < matrix.length; j++) {
-                if(colMax<matrix[j][minCol]){
-                    colMax=matrix[j][minCol];
+            if(rowMin == true){
+                for(int i=0; i<matrix.length; i++){
+                    if(matrix[i][col]>num){
+                        colMax = false;
+                        break;
+                    }
                 }
             }
 
-            if(colMax==rowMin){
-                result.add(colMax);
+            if(rowMin==true && colMax==true){
+                list.add(num);
             }
-            
+
+            if(row<matrix.length && col< matrix[0].length){
+                col++;
+            }
+            if(col==matrix[0].length){
+                col=0;
+                row++;
+            }
         }
-        return result;
+        return list;
     }
 }
