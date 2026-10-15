@@ -1,26 +1,22 @@
 class Solution {
     public int[] sumZero(int n) {
-        int[] arr = new int[n];
-        int x= -n/2;
+        int[] ans = new int[n];
         if(n%2==0){
-            for (int i = 0; i < arr.length; i++) {
-                if(x!=0) {
-                    arr[i] = x;
-                    
-                }
-                else{
-                    x++;
-                    arr[i]=x;
-                }
-                x++;
+            int count = -n/2;
+            for(int i=0; i<n; i++){
+                if(count==0) count++;
+                ans[i] = count;
+                count++;
             }
         }
         else{
-            for (int i = 0; i < arr.length; i++) {
-                arr[i]=x;
-                x++;
+            int count = -n/2;
+            for(int i=0; i<n; i++){
+                ans[i]=count;
+                count++;
             }
         }
-        return arr;
+
+        return ans;
     }
 }
