@@ -282,6 +282,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MrRao117/DSA-Practice/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/MrRao117/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -316,6 +317,7 @@
 | [0125-valid-palindrome](https://github.com/MrRao117/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MrRao117/DSA-Practice/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/MrRao117/DSA-Practice/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/MrRao117/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
@@ -446,6 +448,7 @@
 | [0169-majority-element](https://github.com/MrRao117/DSA-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/MrRao117/DSA-Practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/MrRao117/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/MrRao117/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/MrRao117/DSA-Practice/tree/master/0414-third-maximum-number) |
