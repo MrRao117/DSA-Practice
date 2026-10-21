@@ -181,6 +181,7 @@
 | [0198-house-robber](https://github.com/MrRao117/DSA-Practice/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/MrRao117/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
@@ -226,6 +227,7 @@
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/MrRao117/DSA-Practice/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrRao117/DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -538,6 +540,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MrRao117/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Game Theory
 |  |
@@ -643,4 +646,8 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/MrRao117/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
