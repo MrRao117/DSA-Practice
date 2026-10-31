@@ -542,6 +542,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MrRao117/DSA-Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/MrRao117/DSA-Practice/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -634,6 +635,7 @@
 | [0141-linked-list-cycle](https://github.com/MrRao117/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
