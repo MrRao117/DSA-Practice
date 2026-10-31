@@ -241,6 +241,7 @@
 | [1250-check-if-it-is-a-good-array](https://github.com/MrRao117/DSA-Practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/MrRao117/DSA-Practice/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MrRao117/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -634,6 +635,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/MrRao117/DSA-Practice/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
