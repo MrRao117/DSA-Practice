@@ -229,6 +229,7 @@
 | [0202-happy-number](https://github.com/MrRao117/DSA-Practice/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/MrRao117/DSA-Practice/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/MrRao117/DSA-Practice/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/MrRao117/DSA-Practice/tree/master/0539-minimum-time-difference) |
@@ -531,6 +532,7 @@
 | [0143-reorder-list](https://github.com/MrRao117/DSA-Practice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Combinatorics
@@ -655,6 +657,7 @@
 | [0206-reverse-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
