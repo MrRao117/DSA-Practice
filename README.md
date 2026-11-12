@@ -110,6 +110,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrRao117/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MrRao117/DSA-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/MrRao117/DSA-Practice/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MrRao117/DSA-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/MrRao117/DSA-Practice/tree/master/3731-find-missing-elements) |
