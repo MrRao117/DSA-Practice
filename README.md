@@ -672,6 +672,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2074-reverse-nodes-in-even-length-groups](https://github.com/MrRao117/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
