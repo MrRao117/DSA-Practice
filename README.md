@@ -418,6 +418,7 @@
 | [1813-sentence-similarity-iii](https://github.com/MrRao117/DSA-Practice/tree/master/1813-sentence-similarity-iii) |
 | [1898-maximum-number-of-removable-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1898-maximum-number-of-removable-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -674,6 +675,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/MrRao117/DSA-Practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/MrRao117/DSA-Practice/tree/master/2074-reverse-nodes-in-even-length-groups) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
