@@ -113,6 +113,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MrRao117/DSA-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3731-find-missing-elements](https://github.com/MrRao117/DSA-Practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/MrRao117/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -218,6 +219,7 @@
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MrRao117/DSA-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/MrRao117/DSA-Practice/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Math
 |  |
 | ------- |
@@ -447,6 +449,7 @@
 | [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MrRao117/DSA-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/MrRao117/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
