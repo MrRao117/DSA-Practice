@@ -66,6 +66,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/MrRao117/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/MrRao117/DSA-Practice/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/MrRao117/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1023-camelcase-matching](https://github.com/MrRao117/DSA-Practice/tree/master/1023-camelcase-matching) |
 | [1051-height-checker](https://github.com/MrRao117/DSA-Practice/tree/master/1051-height-checker) |
 | [1095-find-in-mountain-array](https://github.com/MrRao117/DSA-Practice/tree/master/1095-find-in-mountain-array) |
@@ -542,6 +543,7 @@
 | [0234-palindrome-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/MrRao117/DSA-Practice/tree/master/2000-reverse-prefix-of-word) |
 ## Combinatorics
@@ -553,6 +555,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/MrRao117/DSA-Practice/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Enumeration
 |  |
@@ -674,6 +677,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/MrRao117/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/0876-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/MrRao117/DSA-Practice/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1669-merge-in-between-linked-lists](https://github.com/MrRao117/DSA-Practice/tree/master/1669-merge-in-between-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/MrRao117/DSA-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
