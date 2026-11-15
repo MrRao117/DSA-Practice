@@ -90,6 +90,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1499-max-value-of-equation](https://github.com/MrRao117/DSA-Practice/tree/master/1499-max-value-of-equation) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrRao117/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-shuffle-string](https://github.com/MrRao117/DSA-Practice/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/MrRao117/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/MrRao117/DSA-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -188,6 +189,7 @@
 | [0486-predict-the-winner](https://github.com/MrRao117/DSA-Practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/MrRao117/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MrRao117/DSA-Practice/tree/master/0877-stone-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrRao117/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1668-maximum-repeating-substring](https://github.com/MrRao117/DSA-Practice/tree/master/1668-maximum-repeating-substring) |
 ## Greedy
 |  |
@@ -216,6 +218,7 @@
 | [0848-shifting-letters](https://github.com/MrRao117/DSA-Practice/tree/master/0848-shifting-letters) |
 | [1208-get-equal-substrings-within-budget](https://github.com/MrRao117/DSA-Practice/tree/master/1208-get-equal-substrings-within-budget) |
 | [1480-running-sum-of-1d-array](https://github.com/MrRao117/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrRao117/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1732-find-the-highest-altitude](https://github.com/MrRao117/DSA-Practice/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/MrRao117/DSA-Practice/tree/master/1854-maximum-population-year) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/MrRao117/DSA-Practice/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -253,6 +256,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrRao117/DSA-Practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/MrRao117/DSA-Practice/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/MrRao117/DSA-Practice/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/MrRao117/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1573-number-of-ways-to-split-a-string](https://github.com/MrRao117/DSA-Practice/tree/master/1573-number-of-ways-to-split-a-string) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/MrRao117/DSA-Practice/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/MrRao117/DSA-Practice/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
